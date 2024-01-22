@@ -70,7 +70,7 @@ Windows                  17 hrs 9 mins       ███████████�
 
 <div>
   <p align="center">
-	<a href="https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io">
+	<a href="(https://github.com/Chandranshu1119/Movie-Recommender-System)">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=Deri-Kurniawan.github.io&theme=transparent" alt="GitHub Stats" />
     	</a>
 	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
