@@ -76,8 +76,8 @@ Windows                  17 hrs 9 mins       ███████████�
 	    <a href="(https://github.com/Chandranshu1119/Python-Chatbot-)">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandranshu1119&repo=Python-Chatbot-&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	<a href="(https://github.com/Chandranshu1119/Myntra-PowerBI-Dashboard)">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandranshu1119&repo=Myntra-PowerBI-Dashboard&theme=transparent" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/Deri-Kurniawan/derizer">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
