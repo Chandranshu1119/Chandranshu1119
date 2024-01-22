@@ -13,7 +13,7 @@ import { Person } from 'india';
 
 new Person({
     name   : 'Chandranshu Sharma',
-    title  : 'Data Analyst',
+    title  : 'BI & Data Analyst',
     email  : 'chandranshusharma11@gmail.com',
 }).sayHello();
 ```
