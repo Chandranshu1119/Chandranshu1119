@@ -73,7 +73,7 @@ Windows                  17 hrs 9 mins       ███████████�
 	<a href="https://github.com/Chandranshu1119/Movie-Recommender-System">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandranshu1119&repo=Movie-Recommender-System&theme=transparent" alt="GitHub Stats" />
     	</a>
-	    <a href="(https://github.com/Chandranshu1119/Python-Chatbot)">
+	    <a href="(https://github.com/Chandranshu1119/Python-Chatbot-)">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandranshu1119&repo=Python-Chatbot&theme=transparent" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
