@@ -26,7 +26,7 @@ Hi, my name is Chandranshu Sharma, I'm a Data Analyst from India.
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
+🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 Python               12 hrs 26 mins          ████████████████████████░   96.37 % 
