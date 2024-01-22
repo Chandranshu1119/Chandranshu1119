@@ -71,7 +71,7 @@ Windows                  17 hrs 9 mins       ███████████�
 <div>
   <p align="center">
 	<a href="https://github.com/Chandranshu1119/Movie-Recommender-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandranshu1119&repo=Chandranshu.github.io&theme=transparent" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandranshu1119&repo=Movie-Recommender-System&theme=transparent" alt="GitHub Stats" />
     	</a>
 	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
