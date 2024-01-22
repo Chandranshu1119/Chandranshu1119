@@ -79,14 +79,11 @@ Windows                  17 hrs 9 mins       ███████████�
     	<a href="https://github.com/Chandranshu1119/Myntra-PowerBI-Dashboard">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandranshu1119&repo=Myntra-PowerBI-Dashboard&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/Chandranshu1119/EDA-Hotel-Booking-Project">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandranshu1119&repo=EDA-Hotel-Booking-Project&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/Chandranshu1119/HR-Analytics-Project">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandranshu1119&repo=HR-Analytics-Project&theme=transparent" alt="GitHub Stats" />
     	</a>
 </div>
 
