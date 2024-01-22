@@ -9,20 +9,18 @@
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'india';
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id/',
-    married: !!!true,
+    name   : 'Chandranshu Sharma',
+    title  : 'Data Analyst',
+    email  : 'chandranshusharma11@gmail.com',
 }).sayHello();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\Chandranshu Sharma> node index.js
+Hi, my name is Chandranshu Sharma, I'm a Data Analyst from India.
 ```
 
 <div align="center">
